@@ -5104,6 +5104,42 @@
 		(layer "Edge.Cuts")
 		(uuid "01648bc4-7c14-4ae9-8188-df12b5ce120e")
 	)
+	(gr_text "https://github.com/nebularnoise/PopLab_CNC"
+		(at 85.344 72.136 0)
+		(layer "B.SilkS")
+		(uuid "5a723864-a301-472a-a787-b2dd92151d71")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "2025.06.04"
+		(at 60.452 77.724 0)
+		(layer "B.SilkS")
+		(uuid "7f1c55e1-4152-4cd3-b715-be46080117ce")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "PopLab CNC Adapter v0.1"
+		(at 80.772 66.294 0)
+		(layer "B.SilkS")
+		(uuid "e2c7266f-b81d-42b5-8b95-6316b128832e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(dimension
 		(type aligned)
 		(layer "Dwgs.User")
